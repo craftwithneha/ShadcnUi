@@ -82,7 +82,7 @@ const latestTransactions = [
   {
     id: 5,
     title: "Membership Fee",
-    badge: "Bilal Hussain",
+    badge: "Fawad Khan",
     image:
       "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=800",
     count: 1400,
